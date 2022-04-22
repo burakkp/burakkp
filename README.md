@@ -6,7 +6,7 @@
 <a href="https://codepen.io/burakkp" rel="nofollow"><img src="https://camo.githubusercontent.com/fb4b846017cf34b06a7da7ff3d8a6c1a4bfe4fcb1adae6c45792a6f47a5f4dad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f646550656e2d50726f66696c652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d636f646570656e266c6f676f436f6c6f723d776869746526636f6c6f723d626c61636b" alt="CodePen Badge" data-canonical-src="https://img.shields.io/badge/CodePen-Profile-informational?style=flat&amp;logo=codepen&amp;logoColor=white&amp;color=black" style="max-width: 100%;"></a>
 <br>
 
-- 🔭 I’m currently working on Capgemini Nederland
+- 🔭 I’m currently working on Azure Functions, Video Call API
 - 🌱 I’m currently learning Blockchain and Python
 - 💬 Ask me about JavaScript, React, Vue, Azure Functions...
 - 📫 How to reach me: me@burakkp.com
