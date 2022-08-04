@@ -1,7 +1,7 @@
-Hi 👋 My name is Burak Kucukparmaksiz
+Hi 👋 My name is Burak
 =====================================
 
-Front-End Engineer
+I'm a Front-End Engineer at KPN
 ------------------
 
 * 🌍  I'm based in Tiel
