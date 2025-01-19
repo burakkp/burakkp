@@ -1,7 +1,7 @@
 Hi 👋 My name is Burak
 =====================================
 
-I'm a Full Stack Engineer at KPN
+I'm a Senior Sofware Engineer I at KPN
 ------------------
 
 * 🌍  I'm based in Tiel
